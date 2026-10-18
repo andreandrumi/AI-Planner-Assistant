@@ -1,0 +1,6 @@
+{
+  "name": "DATAMAP AI - Kebijakan Talenta Digital Jatim & NTB",
+  "description": "Sistem Asisten Perencana Kebijakan Publik Senior & Ahli Ekonomi Digital untuk analisis kesenjangan talenta digital, IMDI, dan rekomendasi intervensi presisi Jawa Timur & NTB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
